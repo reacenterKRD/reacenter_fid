@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shop version="2.0" date="2026-05-22 12:00">
+  <name>Реацентр Краснодар</name>
+  <company>ООО «Реацентр Краснодар»</company>
+  <url>https://reacenterkrd.com/</url>
+  <picture>https://drive.google.com/uc?export=view&amp;id=15IRqK_eujsq9si4k3_W-O_wqvkKp6hFG</picture>
+  <email>reacenter123@mail.ru</email>
+
+  <clinics>
+    <clinic id="clinic_reacenter">
+      <url>https://reacenterkrd.com/</url>
+      <picture>https://drive.google.com/uc?export=view&amp;id=15IRqK_eujsq9si4k3_W-O_wqvkKp6hFG</picture>
+      <name>Реацентр Краснодар</name>
+      <city>г. Краснодар</city>
+      <address>ул. Селезнёва, 242Г</address>
+      <phone>+79286903603</phone>
+    </clinic>
+  </clinics>
+
+  <doctors>
+    <doctor id="kozyreva-mv">
+      <name>Козырева Марина Викторовна</name>
+      <url>https://reacenterkrd.com/kozyireva-marina-viktorovna</url>
+      <description>Заведующая отделением Реацентр Краснодар, врач невролог, рефлексотерапевт. Проводит диагностику и лечение заболеваний нервной системы у взрослых и детей. Специализируется на лечении у детей следующих расстройств: РАС, ДЦП, СДВГ, ЗПР, ЗРР, ЗПРР. Владеет методами рефлексотерапии.</description>
+      <first_name>Марина</first_name>
+      <surname>Козырева</surname>
+      <patronymic>Викторовна</patronymic>
+      <experience_years>10</experience_years>
+      <career_start_date>2016-01-01</career_start_date>
+      <category>Высшая</category>
+      <education>
+        <organization>Межрегиональный Научно-Технический Университет, г. Рязань</organization>
+        <finish_year>2020</finish_year>
+        <type>Специалитет</type>
+        <specialization>Неврология</specialization>
+      </education>
+      <education>
+        <organization>Межрегиональный Научно-Технический Университет, г. Рязань</organization>
+        <finish_year>2020</finish_year>
+        <type>Специалитет</type>
+        <specialization>Рефлексотерапия</specialization>
+      </education>
+      <reviews_total_count>1</reviews_total_count>
+      <review>
+        <date>2026-05-22</date>
+        <checked>true</checked>
+        <used_in_rating>true</used_in_rating>
+        <author>Пациент</author>
+        <url>https://prodoctorov.ru/krasnodar/vrach/685769-kozyreva/otzivi/</url>
+        <comment>Очень грамотный специалист, помогла решить проблему.</comment>
+        <grade>5</grade>
+      </review>
+    </doctor>
+
+    <doctor id="belogorcev-tm">
+      <name>Белогорцев Тимофей Михайлович</name>
+      <url>https://reacenterkrd.com/belogortsev-timofey-mikhailovich</url>
+      <description>Медицинский брат по массажу. Опыт работы 16 лет. Выполняет все виды лечебного и детского массажа.</description>
+      <first_name>Тимофей</first_name>
+      <surname>Белогорцев</surname>
+      <patronymic>Михайлович</patronymic>
+      <experience_years>16</experience_years>
+      <career_start_date>2010-01-01</career_start_date>
+      <category>Первая</category>
+      <education>
+        <organization>Калмыцкий медицинский колледж им. Т. Хахлыновой</organization>
+        <finish_year>2010</finish_year>
+        <type>Среднее профессиональное</type>
+        <specialization>Сестринское дело</specialization>
+      </education>
+      <education>
+        <organization>Калмыцкий медицинский колледж им. Т. Хахлыновой</organization>
+        <finish_year>2011</finish_year>
+        <type>Профессиональная переподготовка</type>
+        <specialization>Медицинский брат по массажу</specialization>
+      </education>
+      <education>
+        <organization>Межрегиональный Научно-Технический Университет</organization>
+        <finish_year>2020</finish_year>
+        <type>Повышение квалификации</type>
+        <specialization>Медицинский массаж</specialization>
+      </education>
+      <reviews_total_count>1</reviews_total_count>
+      <review>
+        <date>2026-05-22</date>
+        <checked>true</checked>
+        <used_in_rating>true</used_in_rating>
+        <author>Пациент</author>
+        <url>https://prodoctorov.ru/krasnodar/vrach/904216-belogorcev/otzivi/</url>
+        <comment>Отличный массажист, профессионал своего дела.</comment>
+        <grade>5</grade>
+      </review>
+    </doctor>
+
+    <doctor id="martirosyan-ri">
+      <name>Мартиросян Рануш Ивановна</name>
+      <url>https://reacenterkrd.com/martirosian-ranuh-ivanovna</url>
+      <description>Врач педиатр, детский рефлексотерапевт. Занимается лечением и профилактикой заболеваний у детей с использованием методов рефлексотерапии.</description>
+      <first_name>Рануш</first_name>
+      <surname>Мартиросян</surname>
+      <patronymic>Ивановна</patronymic>
+      <experience_years>3</experience_years>
+      <career_start_date>2023-01-01</career_start_date>
+      <category>Вторая</category>
+      <education>
+        <organization>КУБГМУ, г. Краснодар</organization>
+        <finish_year>2021</finish_year>
+        <type>Специалитет</type>
+        <specialization>Педиатрия</specialization>
+      </education>
+      <education>
+        <organization>Реацентр, г. Самара</organization>
+        <finish_year>2023</finish_year>
+        <type>Профессиональная переподготовка</type>
+        <specialization>Рефлексотерапия</specialization>
+      </education>
+      <reviews_total_count>1</reviews_total_count>
+      <review>
+        <date>2026-05-22</date>
+        <checked>true</checked>
+        <used_in_rating>true</used_in_rating>
+        <author>Пациент</author>
+        <url>https://prodoctorov.ru/krasnodar/vrach/959754-martirosyan/otzivi/</url>
+        <comment>Хороший детский врач, быстро нашла общий язык с ребенком.</comment>
+        <grade>5</grade>
+      </review>
+    </doctor>
+  </doctors>
+
+  <services>
+    <service id="service_nevrolog">
+      <name>Консультация невролога</name>
+      <description>Первичная консультация врача-невролога с осмотром и назначением лечения.</description>
+    </service>
+    <service id="service_massage_adult">
+      <name>Лечебный массаж спины</name>
+      <description>Лечебный массаж спины (20 минут)</description>
+    </service>
+    <service id="service_massage_child">
+      <name>Общий детский массаж</name>
+      <description>Общий детский массаж (30 минут)</description>
+    </service>
+    <service id="service_pediatric">
+      <name>Консультация педиатра</name>
+      <description>Консультация врача-педиатра для детей до 18 лет.</description>
+    </service>
+  </services>
+
+  <offers>
+    <offer id="offer_kozyreva_nevrolog">
+      <url>https://reacenterkrd.com/kozyireva-marina-viktorovna</url>
+      <appointment>true</appointment>
+      <online_schedule>false</online_schedule>
+      <price>
+        <base_price>3000</base_price>
+        <currency>RUR</currency>
+      </price>
+      <service id="service_nevrolog"/>
+      <clinic id="clinic_reacenter">
+        <doctor id="kozyreva-mv">
+          <speciality>невролог</speciality>
+          <children_appointment>true</children_appointment>
+          <adult_appointment>true</adult_appointment>
+          <house_call>false</house_call>
+          <telemed>false</telemed>
+          <is_base_service>true</is_base_service>
+        </doctor>
+      </clinic>
+    </offer>
+
+    <offer id="offer_belogorcev_massage_adult">
+      <url>https://reacenterkrd.com/belogortsev-timofey-mikhailovich</url>
+      <appointment>true</appointment>
+      <online_schedule>false</online_schedule>
+      <price>
+        <base_price>1000</base_price>
+        <currency>RUR</currency>
+      </price>
+      <service id="service_massage_adult"/>
+      <clinic id="clinic_reacenter">
+        <doctor id="belogorcev-tm">
+          <speciality>массажист</speciality>
+          <children_appointment>true</children_appointment>
+          <adult_appointment>true</adult_appointment>
+          <house_call>false</house_call>
+          <telemed>false</telemed>
+          <is_base_service>true</is_base_service>
+        </doctor>
+      </clinic>
+    </offer>
+
+    <offer id="offer_belogorcev_massage_child">
+      <url>https://reacenterkrd.com/belogortsev-timofey-mikhailovich</url>
+      <appointment>true</appointment>
+      <online_schedule>false</online_schedule>
+      <price>
+        <base_price>1600</base_price>
+        <currency>RUR</currency>
+      </price>
+      <service id="service_massage_child"/>
+      <clinic id="clinic_reacenter">
+        <doctor id="belogorcev-tm">
+          <speciality>массажист</speciality>
+          <children_appointment>true</children_appointment>
+          <adult_appointment>false</adult_appointment>
+          <house_call>false</house_call>
+          <telemed>false</telemed>
+          <is_base_service>false</is_base_service>
+        </doctor>
+      </clinic>
+    </offer>
+
+    <offer id="offer_martirosyan_pediatric">
+      <url>https://reacenterkrd.com/martirosian-ranuh-ivanovna</url>
+      <appointment>true</appointment>
+      <online_schedule>false</online_schedule>
+      <price>
+        <base_price>2500</base_price>
+        <currency>RUR</currency>
+      </price>
+      <service id="service_pediatric"/>
+      <clinic id="clinic_reacenter">
+        <doctor id="martirosyan-ri">
+          <speciality>педиатр</speciality>
+          <children_appointment>true</children_appointment>
+          <adult_appointment>false</adult_appointment>
+          <house_call>false</house_call>
+          <telemed>false</telemed>
+          <is_base_service>true</is_base_service>
+        </doctor>
+      </clinic>
+    </offer>
+  </offers>
+</shop>
