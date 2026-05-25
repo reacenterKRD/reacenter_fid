@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <shop version="2.0" date="2026-05-22 12:00">
-  <name>Реацентр Краснодар</name>
+  <name>Реацентр</name>
   <company>ООО «Реацентр Краснодар»</company>
   <url>https://reacenterkrd.com/</url>
   <picture>https://drive.google.com/uc?export=view&amp;id=15IRqK_eujsq9si4k3_W-O_wqvkKp6hFG</picture>
@@ -10,7 +10,7 @@
     <clinic id="clinic_reacenter">
       <url>https://reacenterkrd.com/</url>
       <picture>https://drive.google.com/uc?export=view&amp;id=15IRqK_eujsq9si4k3_W-O_wqvkKp6hFG</picture>
-      <name>Реацентр Краснодар</name>
+      <name>Реацентр</name>
       <city>г. Краснодар</city>
       <address>ул. Селезнёва, 242Г</address>
       <phone>+79286903603</phone>
