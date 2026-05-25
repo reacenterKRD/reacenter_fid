@@ -155,6 +155,7 @@
         <base_price>3000</base_price>
         <currency>RUR</currency>
       </price>
+      <param name="Название клиники">Реацентр</param>
       <service id="service_nevrolog"/>
       <clinic id="clinic_reacenter">
         <doctor id="kozyreva-mv">
@@ -176,6 +177,7 @@
         <base_price>1000</base_price>
         <currency>RUR</currency>
       </price>
+      <param name="Название клиники">Реацентр</param>
       <service id="service_massage_adult"/>
       <clinic id="clinic_reacenter">
         <doctor id="belogorcev-tm">
@@ -197,6 +199,7 @@
         <base_price>1600</base_price>
         <currency>RUR</currency>
       </price>
+      <param name="Название клиники">Реацентр</param>
       <service id="service_massage_child"/>
       <clinic id="clinic_reacenter">
         <doctor id="belogorcev-tm">
@@ -218,6 +221,7 @@
         <base_price>2500</base_price>
         <currency>RUR</currency>
       </price>
+      <param name="Название клиники">Реацентр</param>
       <service id="service_pediatric"/>
       <clinic id="clinic_reacenter">
         <doctor id="martirosyan-ri">
