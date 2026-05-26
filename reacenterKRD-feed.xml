@@ -3,13 +3,13 @@
   <name>Реацентр</name>
   <company>ООО «Реацентр Краснодар»</company>
   <url>https://reacenterkrd.com/</url>
-  <picture>https://drive.google.com/uc?export=view&amp;id=15IRqK_eujsq9si4k3_W-O_wqvkKp6hFG</picture>
+  <picture>https://raw.githubusercontent.com/reacenterKRD/reacenter_fid/main/%D0%9B%D0%9E%D0%93%D0%9E.png</picture>
   <email>reacenter123@mail.ru</email>
 
   <clinics>
     <clinic id="clinic_reacenter">
       <url>https://reacenterkrd.com/</url>
-      <picture>https://drive.google.com/uc?export=view&amp;id=15IRqK_eujsq9si4k3_W-O_wqvkKp6hFG</picture>
+      <picture>https://raw.githubusercontent.com/reacenterKRD/reacenter_fid/main/%D0%9B%D0%9E%D0%93%D0%9E.png</picture>
       <name>Реацентр</name>
       <city>г. Краснодар</city>
       <address>ул. Селезнёва, 242Г</address>
