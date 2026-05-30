@@ -40,16 +40,7 @@
         <type>Специалитет</type>
         <specialization>Рефлексотерапия</specialization>
       </education>
-      <reviews_total_count>1</reviews_total_count>
-      <review>
-        <date>2026-05-22</date>
-        <checked>true</checked>
-        <used_in_rating>true</used_in_rating>
-        <author>Пациент</author>
-        <url>https://prodoctorov.ru/krasnodar/vrach/685769-kozyreva/otzivi/</url>
-        <comment>Очень грамотный специалист, помогла решить проблему.</comment>
-        <grade>5</grade>
-      </review>
+      <reviews_total_count>4</reviews_total_count>
     </doctor>
 
     <doctor id="belogorcev-tm">
@@ -80,16 +71,7 @@
         <type>Повышение квалификации</type>
         <specialization>Медицинский массаж</specialization>
       </education>
-      <reviews_total_count>1</reviews_total_count>
-      <review>
-        <date>2026-05-22</date>
-        <checked>true</checked>
-        <used_in_rating>true</used_in_rating>
-        <author>Пациент</author>
-        <url>https://prodoctorov.ru/krasnodar/vrach/904216-belogorcev/otzivi/</url>
-        <comment>Отличный массажист, профессионал своего дела.</comment>
-        <grade>5</grade>
-      </review>
+      <reviews_total_count>4</reviews_total_count>
     </doctor>
 
     <doctor id="martirosyan-ri">
@@ -115,15 +97,6 @@
         <specialization>Рефлексотерапия</specialization>
       </education>
       <reviews_total_count>1</reviews_total_count>
-      <review>
-        <date>2026-05-22</date>
-        <checked>true</checked>
-        <used_in_rating>true</used_in_rating>
-        <author>Пациент</author>
-        <url>https://prodoctorov.ru/krasnodar/vrach/959754-martirosyan/otzivi/</url>
-        <comment>Хороший детский врач, быстро нашла общий язык с ребенком.</comment>
-        <grade>5</grade>
-      </review>
     </doctor>
   </doctors>
 
